@@ -1,4 +1,3 @@
-### Hi there 👋
 Welcome to my GitHub profile! Feel free to explore and reach out if you have any questions or collaborations in mind.
 
 ## About Me
